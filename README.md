@@ -1,2 +1,2 @@
 # AgentCopilot
-This is an LLM (OpenAI) based agent copilot ap
+This is an LLM (OpenAI) based Call Center agent copilot prototype
